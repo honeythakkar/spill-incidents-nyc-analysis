@@ -1,6 +1,5 @@
 # Spill Incidents in New York, USA
 
-![Python](https://img.shields.io/badge/Python-3.11-blue) ![DBSCAN](https://img.shields.io/badge/Model-DBSCAN-orange) ![Clustering](https://img.shields.io/badge/Model-Hierarchical_Clustering-red) ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## Overview
 
