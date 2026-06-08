@@ -6,10 +6,10 @@
 A data mining project analyzing **552,290 real spill incident records** from the New York State Department of Environmental Conservation (DEC) using unsupervised machine learning — identifying geographic hotspots and high-risk incident types to support resource allocation and environmental protection.
 
 **Key Results:**
-- 🗺️ Identified high-frequency geographic spill hotspots across NY State using DBSCAN
-- ⚠️ Equipment failure (37%) was the leading cause of all spill incidents
-- 🛢️ Petroleum accounted for 84.67% of all material incidents
-- 📊 Categorized incidents into high, mid, and low risk levels using Hierarchical Clustering
+- Identified high-frequency geographic spill hotspots across NY State using DBSCAN
+- Equipment failure (37%) was the leading cause of all spill incidents
+- Petroleum accounted for 84.67% of all material incidents
+- Categorized incidents into high, mid, and low risk levels using Hierarchical Clustering
 
 ---
 
@@ -19,7 +19,6 @@ A data mining project analyzing **552,290 real spill incident records** from the
 spill-incidents-nyc-analysis/
 │
 ├── README.md
-└── (analysis notebooks coming soon)
 ```
 
 ---
